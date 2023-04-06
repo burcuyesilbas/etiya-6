@@ -156,4 +156,4 @@ if final < 40 or ortalama < 50 or vize == final *2:
 else:
     print("Geçti")
 
-# karar yapıları -end
+# karar yapıları -endhshsnsn
